@@ -65,5 +65,6 @@ int main()
     cout << "Base:2 " << itoa(1567, str, 2) << endl;
     cout << "Base:8 " << itoa(1567, str, 8) << endl;
     cout << "Base:16 " << itoa(1567, str, 16) << endl;
+    cout << "Base:16 " << itoa(1567, str, 16) << endl;  // added line
     return 0;
 }
