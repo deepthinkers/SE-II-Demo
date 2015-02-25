@@ -1,5 +1,6 @@
 //Lib
 #include <iostream>
+#include <stdlib.h>
 using namespace std;
 /* A utility function to reverse a string  */
 void reverse(char str[], int length)
